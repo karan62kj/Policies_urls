@@ -1,0 +1,6 @@
+
+TO Clear Your User Profile from App :-
+
+1. Open the App
+2. Go to the menu from left
+3. Select Logout
